@@ -6,3 +6,11 @@ h1 {
   font-weight: bold;
   color: coral;
 }
+button {
+  background-color: greenyellow;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+button:hover {
+  background-color: coral;
+}

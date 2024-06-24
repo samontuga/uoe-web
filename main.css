@@ -1,3 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+}
+.navs {
+  display: flex;
+  align-items: center;
+}
+.navs h3 {
+  padding-left: 5px;
+}
+.navs:hover {
+  color: greenyellow;
+}
 body {
   background-color: steelblue;
   text-align: center;
